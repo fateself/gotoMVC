@@ -1,2 +1,2 @@
 # gotoMVC
-use anguage for gotoMVC
+use angular for gotoMVC
