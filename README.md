@@ -1,2 +1,2 @@
-# gotoMVC
+# todoMVC
 use angular for gotoMVC
